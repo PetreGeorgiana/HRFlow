@@ -167,6 +167,13 @@ The application uses an Oracle relational database designed specifically for HR 
 
 ---
 
+## Users Management
+
+![Attendance Management](screenshots/user-administration.png)
+
+---
+
+
 # Video Demonstration
 
 A full demonstration of the application is available here:
