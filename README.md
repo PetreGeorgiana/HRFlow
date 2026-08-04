@@ -178,9 +178,13 @@ The application uses an Oracle relational database designed specifically for HR 
 
 A full demonstration of the application is available here:
 
-🔗 **https://drive.google.com/file/d/1PxTxK-TNTcKGq_Pd7LVBb1ulRfrQWFte/view?usp=sharing**
+🎥 **https://drive.google.com/file/d/1PxTxK-TNTcKGq_Pd7LVBb1ulRfrQWFte/view?usp=sharing**
 
 ---
+
+## Master's Thesis
+
+📄 docs/HRFlow_Master_Thesis.pdf
 
 # Future Improvements
 
