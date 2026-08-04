@@ -131,7 +131,7 @@ The application follows a layered architecture based on the MVC design pattern.
 
 The application uses an Oracle relational database designed specifically for HR management.
 
-![Database Schema](screenshots/database-schema.png)
+![Database Schema](screenshots/database-diagram.png)
 
 ---
 
@@ -139,13 +139,13 @@ The application uses an Oracle relational database designed specifically for HR 
 
 ## Login
 
-![Login](screenshots/login.png)
+![Login](screenshots/login-page.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/main-dashboard.png)
 
 ---
 
