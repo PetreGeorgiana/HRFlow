@@ -2,48 +2,48 @@
 
 ## Secure Human Resources Management System
 
-Developed as part of my Master's thesis at Ovidius University of Constanta.
+Developed as part of my Master's thesis at Ovidius University of Constanța.
 
 ## Overview
 
-HRFlow is a secure Human Resources Management System built with Java, Spring Boot and Oracle Database 21c.
+HRFlow is a Human Resources Management application developed using Java, Spring Boot and Oracle Database.
 
-The application provides authentication, role-beased authorization and employee management while following enterprise software development practices. 
+The project focuses on secure authentication, role-based authorization, employee management, leave management and attendance tracking.
 
 ## Technologies
 
 - Java
 - Spring Boot
 - Spring Security
-- Oracle Database 21c
+- Oracle Database
 - SQL
 - PL/SQL
-- HTML5
-- CSS3
-- Javascript
+- HTML
+- CSS
+- JavaScript
 
 ## Features
 
-- User Authentication
-- Role-Based Authorization
+- Secure Authentication
+- Role-Based Access Control
 - Employee Management
-- Department Management
 - Leave Management
 - Attendance Management
-- BCrypt Password Encryption
 - Oracle Database Integration
 - Stored Procedures
 - Views
 - Triggers
 
-## Architecture
-
-- MVC Architecture
-- REST API
-- Service Layer
-- Repository Layer
-- Oracle Database
-
 ## Demo
 
-Video demonstration comina soon.
+Watch the application demo here:
+
+**([Google Drive link](https://drive.google.com/file/d/1PxTxK-TNTcKGq_Pd7LVBb1ulRfrQWFte/view?usp=sharing))**
+
+## Project Context
+
+Master's Thesis
+
+**Design and Implementation of a Secure Human Resources Application Using Advanced Oracle Database Security Features**
+
+Grade: **10/10**
